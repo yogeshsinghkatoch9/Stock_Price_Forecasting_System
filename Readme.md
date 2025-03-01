@@ -167,43 +167,43 @@ Once the script is launched, the interactive command-line chatbot becomes availa
 
 Basic Analysis
 	•	analyze AAPL
-Displays analysis including evaluation metrics, technical indicators, and ensemble forecasts.
+    Displays analysis including evaluation metrics, technical indicators, and ensemble forecasts.
 	•	raw AAPL
-Shows raw stock data.
+    Shows raw stock data.
 
 Visualization
 	•	chart AAPL
-Plots the raw price history.
+    Plots the raw price history.
 	•	plot technical AAPL
-Displays charts for technical indicators (e.g., RSI, MA20, MA50, MACD).
+    Displays charts for technical indicators (e.g., RSI, MA20, MA50, MACD).
 	•	plot forecast AAPL
-Shows the ensemble (stacked) forecast.
+    Shows the ensemble (stacked) forecast.
 
 Model-Specific Forecasts
 	•	arima AAPL
-Outputs ARIMA model forecasts.
+    Outputs ARIMA model forecasts.
 	•	lstm AAPL
-Outputs LSTM model forecasts.
+    Outputs LSTM model forecasts.
 
 Prediction & Comparison
 	•	predict AAPL
-Predicts the next 30 business days’ closing prices.
+    Predicts the next 30 business days’ closing prices.
 	•	compare AAPL GOOGL
-Compares closing prices between two tickers.
+    Compares closing prices between two tickers.
 
 Portfolio Management
 	•	portfolio add AAPL 10
-Adds 10 shares of AAPL to your portfolio.
+    Adds 10 shares of AAPL to your portfolio.
 	•	portfolio show
-Displays the current portfolio.
+    Displays the current portfolio.
 	•	portfolio clear
-Clears the portfolio.
+    Clears the portfolio.
 
 Visualization Library Control
 	•	set library plotly
-Sets Plotly as the current visualization library.
+    Sets Plotly as the current visualization library.
 	•	show library
-Displays the currently selected visualization library.
+    Displays the currently selected visualization library.
 
 For a full list of commands, type help in the chatbot interface.
 
