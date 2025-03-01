@@ -1,4 +1,3 @@
-"""
 Stock Price Forecasting System: Technical Workflow
 ===============================================
 
