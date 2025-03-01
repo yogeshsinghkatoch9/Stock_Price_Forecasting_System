@@ -94,7 +94,7 @@ This project is an **end-to-end stock forecasting system** that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/stock-forecasting-system.git
+git clone https://github.com/yogeshsinghkatoch9/stock-forecasting-system.git
 cd stock-forecasting-system
 
 2. Create a Virtual Environment
